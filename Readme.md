@@ -21,8 +21,6 @@ Writing a PD external itself is quite a steep learning curve at first, but prove
 In the future I would like to add more message input protocols, and develop a VST/Max4Live version using Max/MSP
 
 
-## Table of Contents
-
 ## Installation
 To use Bearsalmon, you need to install the correct compiled binary for your system, in your externals folder. 
 
